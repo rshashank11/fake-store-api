@@ -19,3 +19,11 @@ Build an e-commerce store (something like Amazon or Flipkart) where user lands o
     - Product Name
     - Product Image
     - Remove Button - clicking on this would remove the item from the cart.
+## Images
+## Products: ![Product](https://github.com/rshashank11/fake-store-api/assets/90172730/1cb5dab3-0c7c-4052-b401-4e559d791231)
+## Product Detail: ![Product Detail](https://github.com/rshashank11/fake-store-api/assets/90172730/f2841a48-e377-416d-bc02-d798fd7233bb)
+## Cart: ![Cart](https://github.com/rshashank11/fake-store-api/assets/90172730/37bc6ff5-d3ae-4b08-8fbf-aaca3b9c3655)
+
+
+
+
