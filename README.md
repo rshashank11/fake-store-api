@@ -1,5 +1,5 @@
 # Fake Store
-- Build an e-commerce store (something like Amazon or Flipkart) where user lands on the home page and sees different products and categories to choose from. 
+Build an e-commerce store (something like Amazon or Flipkart) where user lands on the home page and sees different products and categories to choose from. 
 ## Functionalities
 1. A user can see products on home screen as “cards” with the following details:
    - Product Name
