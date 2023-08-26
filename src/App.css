@@ -26,7 +26,11 @@ h5 {
   color: red;
 }
 
-#heading:hover {
+.heading {
+  text-decoration: none;
+  color: white;
+}
+.heading:hover {
   color: yellow;
 }
 

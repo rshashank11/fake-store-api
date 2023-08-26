@@ -23,7 +23,15 @@ export default function Categories() {
   return (
     <div>
       <nav className="nav-bar">
-        <h1 id="heading">Fake Store</h1>
+        <h1 id="heading">
+          <NavLink
+            key={crypto.randomUUID()}
+            className={"heading"}
+            to="/products/category/view-all"
+          >
+            Fake Store
+          </NavLink>
+        </h1>
         <ul className="nav-list">
           {Array.isArray(categories)
             ? categories.map((category, index) => {
