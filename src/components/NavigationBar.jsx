@@ -23,7 +23,7 @@ export default function Categories() {
   return (
     <div>
       <nav className="nav-bar">
-        <h1>Fake Store</h1>
+        <h1 id="heading">Fake Store</h1>
         <ul className="nav-list">
           {Array.isArray(categories)
             ? categories.map((category, index) => {

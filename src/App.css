@@ -26,6 +26,10 @@ h5 {
   color: red;
 }
 
+#heading:hover {
+  color: yellow;
+}
+
 .nav-bar {
   display: grid;
   grid-template-columns: 20% 70% 10%;
